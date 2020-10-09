@@ -36,3 +36,6 @@ $git push -u origin main
 
 #create readme.md and push
 $touch README.md
+$git add .
+$git commit -m 'readme.md commit' //commit with all files
+$git push
